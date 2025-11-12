@@ -35,7 +35,7 @@ dbt_prefect_snowflake_pipeline/
 
 1️⃣ Clone the repository:
 ```
-git clone https://github.com/your-username/dbt_prefect_snowflake_pipeline.git
+git clone https://github.com/AhmedAtef1755/dbt_prefect_snowflake_pipeline.git
 cd dbt_prefect_snowflake_pipeline
 ```
 
